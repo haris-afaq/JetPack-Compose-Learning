@@ -12,9 +12,9 @@ class MainActivity : ComponentActivity() {
 //        enableEdgeToEdge()
         setContent {
             JetpackComposeTheme {
-                Column {
+
                     CounterApp()
-                }
+
             }
         }
     }
