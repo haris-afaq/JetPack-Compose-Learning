@@ -13,7 +13,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             JetpackComposeTheme {
 
-                    CounterApp()
+//                    CounterApp()
+                ToggleScreen()
 
             }
         }
